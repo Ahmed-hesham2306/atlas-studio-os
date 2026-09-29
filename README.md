@@ -1,5 +1,9 @@
 # Atlas Studio OS
 
+[Live demo](https://ahmedhesham.website/assets/demos/atlas.html) | [Case study](https://ahmedhesham.website/projects/atlas-studio-os/)
+
+![Atlas Studio OS preview](preview.png)
+
 A detailed React + TypeScript front-end portfolio project by Ahmed Hesham: a studio operations workspace for projects, tasks, clients, invoices, and reporting. All businesses, people, invoices, and metrics are fictional sample data.
 
 ## Run and build
@@ -48,3 +52,4 @@ Potential production extensions include an authenticated API, relational databas
 ## Design
 
 A quiet, editorial operations workspace: warm white surfaces, sage accents, fine borders, restrained iconography, informative density, and a fully implemented dark theme. No stock imagery is required.
+
